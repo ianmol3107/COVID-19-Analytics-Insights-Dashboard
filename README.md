@@ -52,24 +52,27 @@ Problem Statement
 
 ---
 
-🔹 Key Insights from Analysis
+## 🔹 Insights from Analysis:
 
-- 📌 Global Impact: The pandemic affected every continent, but severity varied significantly across regions.
-- 📌 Top Countries: A handful of countries (USA, India, Brazil) contributed disproportionately to global cases and deaths.
-- 📌 Vaccination Disparity: Developed countries with higher GDP per capita achieved faster vaccination rollouts compared to developing nations.
-- 📌 Death Rates: Regions with limited healthcare capacity showed higher death percentages.
-- 📌 Testing vs Cases: Higher testing rates correlated with better detection but not necessarily lower cases.
-- 📌 Rolling Average Trends: Peaks in cases often lagged behind vaccination campaigns and policy changes.
+**1. Correlation between GDP and Vaccinated Percent**
 
----
+![Correlation between GDP and Vaccinated Percent](https://github.com/ianmol3107/COVID-19-Analytics-Insights-Dashboard/blob/main/Visualization%20Snapshots/Correlation%20between%20GDP%20and%20Vaccinated%20Percent.png?raw=true)
 
-🔹 Future Scope
+**2. Detailed Case View (DTP)**
 
-- 🚀 Automation: Schedule automatic data refreshes via Power BI Service.
-- 🤖 Machine Learning Forecasting: Use time-series models (ARIMA, Prophet) to predict new cases/deaths.
-- 🌍 Healthcare Resource Tracking: Add ICU capacity, hospital beds, and oxygen supply data.
-- 📈 Policy Impact Analysis: Correlate lockdowns/vaccination drives with case/death trends.
-- 💻 Web Integration: Publish dashboard to web/embedded in portals for wider accessibility.
+![Correlation between GDP and Vaccinated Percent](https://github.com/ianmol3107/COVID-19-Analytics-Insights-Dashboard/blob/main/Visualization%20Snapshots/Detailed%20Case%20View%20(DTP).png?raw=true)
+
+**3. Global Overview**
+
+![Correlation between GDP and Vaccinated Percent](https://github.com/ianmol3107/COVID-19-Analytics-Insights-Dashboard/blob/main/Visualization%20Snapshots/Global%20Overview.png?raw=true)
+
+**4. Global Trend**
+
+![Correlation between GDP and Vaccinated Percent](https://github.com/ianmol3107/COVID-19-Analytics-Insights-Dashboard/blob/main/Visualization%20Snapshots/Global%20Trend.png?raw=true)
+
+**5. Top Countries and Comparisons**
+
+![Correlation between GDP and Vaccinated Percent](https://github.com/ianmol3107/COVID-19-Analytics-Insights-Dashboard/blob/main/Visualization%20Snapshots/Top%20Countries%20and%20Comparisons.png?raw=true)
 
 ---
 
